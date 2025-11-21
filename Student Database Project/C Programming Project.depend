@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1751111411 source:e:\courses\software\embedded system diploma amit learning\projects\c programming project\c programming project\sdb.c
+	<stdio.h>
+	"SDB.h"
+
+1751112852 e:\courses\software\embedded system diploma amit learning\projects\c programming project\c programming project\sdb.h
+	"STD.h"
+
+1751097984 e:\courses\software\embedded system diploma amit learning\projects\c programming project\c programming project\std.h
+
+1751112955 source:e:\courses\software\embedded system diploma amit learning\projects\c programming project\c programming project\sdbapp.c
+	<stdio.h>
+	"SDB.h"
+
+1751112953 source:e:\courses\software\embedded system diploma amit learning\projects\c programming project\c programming project\main.c
+	"SDBAPP.h"
+	"SDB.h"
+
+1751112701 e:\courses\software\embedded system diploma amit learning\projects\c programming project\c programming project\sdbapp.c
+	<stdio.h>
+	"SDB.h"
+
+1751112957 e:\courses\software\embedded system diploma amit learning\projects\c programming project\c programming project\sdbapp.h
+	"SDB.h"
+
